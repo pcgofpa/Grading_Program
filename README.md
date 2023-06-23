@@ -1,6 +1,6 @@
 # Grading Program
 
-
+This project was created as a part of a #100DaysofCode course that I bought to go through with my daughter.
 
 ## Instructions
 You have access to a database of student_scores in the format of a dictionary. 
